@@ -22,4 +22,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 [DIAGRAMA](https://lucid.app/lucidchart/0b4f07e6-87d9-4d9e-b297-1c440e838f9c/edit?page=0_0&invitationId=inv_6c141862-536d-40fd-a49e-6695f2b24f2d#)
 
-![imgDiagrama](/src/img/diagrama.png)
+![imgDiagrama](https://github.com/LucasRuizMartins/dio-java-backend-santander/blob/main/trilha-basica/desafioPOO/src/img/diagrama.png?raw=true)
